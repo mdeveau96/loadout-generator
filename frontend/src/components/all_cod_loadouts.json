@@ -12,18 +12,12 @@
             "Grenade Launcher"
           ]
         },
-        "AK-74u": {
-          "attachments": [
-            "Red Dot Sight",
-            "ACOG Scope",
-            "Silencer"
-          ]
-        },
         "G3": {
           "attachments": [
             "Red Dot Sight",
             "ACOG Scope",
-            "Silencer"
+            "Silencer",
+            "Grenade Launcher"
           ]
         },
         "G36C": {
@@ -51,11 +45,7 @@
           ]
         },
         "MP44": {
-          "attachments": [
-            "Red Dot Sight",
-            "ACOG Scope",
-            "Silencer"
-          ]
+          "attachments": []
         }
       },
       "submachine_guns": {
@@ -69,6 +59,7 @@
         "Mini-Uzi": {
           "attachments": [
             "Red Dot Sight",
+            "ACOG Scope",
             "Silencer"
           ]
         },
@@ -89,6 +80,7 @@
         "Skorpion": {
           "attachments": [
             "Red Dot Sight",
+            "ACOG Scope",
             "Silencer"
           ]
         }
@@ -97,24 +89,27 @@
         "M249 SAW": {
           "attachments": [
             "Red Dot Sight",
-            "ACOG Scope"
+            "ACOG Scope",
+            "Grip"
           ]
         },
         "M60E4": {
           "attachments": [
             "Red Dot Sight",
-            "ACOG Scope"
+            "ACOG Scope",
+            "Grip"
           ]
         },
         "RPD": {
           "attachments": [
             "Red Dot Sight",
-            "ACOG Scope"
+            "ACOG Scope",
+            "Grip"
           ]
         }
       },
       "sniper_rifles": {
-        "Barrett .50cal": {
+        "Barrett .50Cal": {
           "attachments": [
             "ACOG Scope"
           ]
@@ -143,7 +138,14 @@
       "shotguns": {
         "W1200": {
           "attachments": [
-            "Red Dot Sight"
+            "Red Dot Sight",
+            "Grip"
+          ]
+        },
+        "M1014": {
+          "attachments": [
+            "Red Dot Sight",
+            "Grip"
           ]
         }
       }
@@ -175,7 +177,7 @@
         ]
       }
     },
-    "equipment": {
+    "other": {
       "lethal": [
         "Frag Grenade"
       ],
@@ -184,8 +186,7 @@
         "Flash Grenade",
         "Smoke Grenade"
       ],
-      "special": [
-      ]
+      "special": []
     },
     "perks": {
       "perk_1": [
@@ -275,6 +276,16 @@
           ]
         },
         "Type 99": {
+          "attachments": [
+            "Aperture Sight",
+            "Telescopic Sight",
+            "Suppressor",
+            "Flash Hider",
+            "Bayonet",
+            "Rifle Grenade"
+          ]
+        },
+        "M1 Garand": {
           "attachments": [
             "Aperture Sight",
             "Telescopic Sight",
@@ -429,21 +440,7 @@
         ]
       }
     },
-    "attachments": {
-      "sights": [
-        "Aperture Sight",
-        "Telescopic Sight"
-      ],
-      "barrel": [
-        "Suppressor",
-        "Flash Hider"
-      ],
-      "other": [
-        "Bayonet",
-        "Rifle Grenade"
-      ]
-    },
-    "equipment": {
+    "other": {
       "lethal": [
         "Frag Grenade",
         "Molotov Cocktail",
@@ -530,6 +527,7 @@
             "Silencer",
             "Extended Mags",
             "Grenade Launcher",
+            "Shotgun",
             "FMJ"
           ]
         },
@@ -543,6 +541,7 @@
             "Silencer",
             "Extended Mags",
             "Grenade Launcher",
+            "Shotgun",
             "FMJ"
           ]
         },
@@ -589,6 +588,7 @@
             "Silencer",
             "Extended Mags",
             "Grenade Launcher",
+            "Masterkey",
             "FMJ"
           ]
         },
@@ -936,7 +936,7 @@
         "Tactical Knife"
       ]
     },
-    "equipment": {
+    "other": {
       "lethal": [
         "Frag",
         "Semtex",
@@ -1046,99 +1046,145 @@
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
           ]
         },
         "Enfield": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
           ]
         },
         "M14": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
-            "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grip",
+            "Grenade Launcher"
           ]
         },
         "FAMAS": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
           ]
         },
         "Galil": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
           ]
         },
         "AUG": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
           ]
         },
         "FN FAL": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
-            "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
           ]
         },
         "AK74": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
           ]
         },
         "Commando": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Masterkey",
-            "Dual Mag"
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
+          ]
+        },
+        "AK-47": {
+          "attachments": [
+            "Red Dot Sight",
+            "Reflex Sight",
+            "ACOG Sight",
+            "Suppressor",
+            "Extended Mag",
+            "Masterkey",
+            "Dual Mag",
+            "Infrared Scope",
+            "Flamethrower",
+            "Grenade Launcher"
+          ]
+        },
+        "G11": {
+          "attachments": [
+            "Low Power Scope",
+            "Variable Zoom"
           ]
         }
       },
@@ -1147,21 +1193,19 @@
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
-            "Rapid Fire",
-            "Dual Wield"
+            "Rapid Fire"
           ]
         },
         "Skorpion": {
           "attachments": [
-            "Red Dot Sight",
-            "Reflex Sight",
             "Suppressor",
             "Extended Mag",
             "Rapid Fire",
-            "Dual Wield"
+            "Dual Wield",
+            "Grip"
           ]
         },
         "MAC11": {
@@ -1169,6 +1213,7 @@
             "Red Dot Sight",
             "Reflex Sight",
             "Suppressor",
+            "Grip",
             "Extended Mag",
             "Rapid Fire",
             "Dual Wield"
@@ -1178,28 +1223,29 @@
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
             "Rapid Fire",
-            "Dual Wield"
+            "Grip",
+            "Grenade Launcher",
+            "Dual Mag"
           ]
         },
         "Uzi": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
+            "ACOG Sight",
             "Suppressor",
             "Extended Mag",
-            "Rapid Fire",
-            "Dual Wield"
+            "Grip",
+            "Rapid Fire"
           ]
         },
         "PM63": {
           "attachments": [
-            "Red Dot Sight",
-            "Reflex Sight",
-            "Suppressor",
+            "Grip",
             "Extended Mag",
             "Rapid Fire",
             "Dual Wield"
@@ -1209,19 +1255,31 @@
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
-            "Extended Mag",
             "Rapid Fire",
-            "Dual Wield"
+            "Grip",
+            "Dual Mag"
           ]
         },
         "Spectre": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Suppressor",
+            "Grip",
+            "Extended Mag",
+            "Rapid Fire"
+          ]
+        },
+        "Kiparis": {
+          "attachments": [
+            "Red Dot Sight",
+            "Reflex Sight",
+            "ACOG Sight",
+            "Suppressor",
+            "Grip",
             "Extended Mag",
             "Rapid Fire",
             "Dual Wield"
@@ -1233,17 +1291,16 @@
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
-            "Extended Mag",
-            "Dual Mag"
+            "Extended Mag"
           ]
         },
         "RPK": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
             "Extended Mag",
             "Dual Mag"
@@ -1253,35 +1310,35 @@
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
             "Extended Mag",
-            "Dual Mag"
+            "Grip"
           ]
         },
         "Stoner63": {
           "attachments": [
             "Red Dot Sight",
             "Reflex Sight",
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
-            "Extended Mag",
-            "Dual Mag"
+            "Extended Mag"
           ]
         }
       },
       "sniper_rifles": {
         "Dragunov": {
           "attachments": [
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
             "Extended Mag",
-            "Variable Zoom"
+            "Variable Zoom",
+            "Suppressor"
           ]
         },
         "WA2000": {
           "attachments": [
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
             "Suppressor",
             "Extended Mag",
@@ -1290,15 +1347,16 @@
         },
         "L96A1": {
           "attachments": [
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
             "Extended Mag",
+            "Suppressor",
             "Variable Zoom"
           ]
         },
         "PSG1": {
           "attachments": [
-            "ACOG Scope",
+            "ACOG Sight",
             "Infrared Scope",
             "Suppressor",
             "Extended Mag",
@@ -1308,108 +1366,109 @@
       },
       "shotguns": {
         "Olympia": {
-          "attachments": [
-            "Red Dot Sight",
-            "Reflex Sight",
-            "Suppressor"
-          ]
+          "attachments": []
         },
         "Stakeout": {
           "attachments": [
             "Red Dot Sight",
-            "Reflex Sight",
-            "Suppressor",
-            "Extended Mag"
+            "Grip"
           ]
         },
         "SPAS-12": {
           "attachments": [
-            "Red Dot Sight",
-            "Reflex Sight",
-            "Suppressor",
-            "Extended Mag"
+            "Suppressor"
           ]
         },
         "HS10": {
           "attachments": [
-            "Red Dot Sight",
-            "Reflex Sight",
-            "Suppressor",
-            "Extended Mag",
             "Dual Wield"
           ]
         }
       }
     },
     "secondary_weapons": {
-      "ASP": {
-        "attachments": [
-          "Suppressor",
-          "Extended Mag",
-          "Dual Wield"
-        ]
+      "pistols": {
+        "ASP": {
+          "attachments": [
+            "Dual Wield"
+          ]
+        },
+        "M1911": {
+          "attachments": [
+            "Suppressor",
+            "Extended Mag",
+            "Dual Wield",
+            "Upgraded Iron Sights"
+          ]
+        },
+        "Makarov": {
+          "attachments": [
+            "Suppressor",
+            "Extended Mag",
+            "Dual Wield",
+            "Upgraded Iron Sights"
+          ]
+        },
+        "Python": {
+          "attachments": [
+            "ACOG Sight",
+            "Dual Wield",
+            "Speed Loader",
+            "Snub Nose"
+          ]
+        },
+        "CZ75": {
+          "attachments": [
+            "Suppressor",
+            "Extended Mag",
+            "Dual Wield",
+            "Upgraded Iron Sights",
+            "Full Auto Upgrade"
+          ]
+        }
       },
-      "M1911": {
-        "attachments": [
-          "Suppressor",
-          "Extended Mag",
-          "Dual Wield"
-        ]
-      },
-      "Makarov": {
-        "attachments": [
-          "Suppressor",
-          "Extended Mag",
-          "Dual Wield"
-        ]
-      },
-      "Python": {
-        "attachments": [
-          "ACOG Scope",
-          "Dual Wield"
-        ]
-      },
-      "CZ75": {
-        "attachments": [
-          "Suppressor",
-          "Extended Mag",
-          "Dual Wield"
-        ]
-      },
-      "China Lake": {
-        "attachments": []
-      },
-      "M72 LAW": {
-        "attachments": []
-      },
-      "RPG": {
-        "attachments": []
-      },
-      "Strela-3": {
-        "attachments": []
-      },
-      "Crossbow": {
-        "attachments": [
-          "Red Dot Sight",
-          "ACOG Scope",
-          "Infrared Scope"
-        ]
+      "launchers": {
+        "China Lake": {
+          "attachments": []
+        },
+        "M72 LAW": {
+          "attachments": []
+        },
+        "RPG": {
+          "attachments": []
+        },
+        "Strela-3": {
+          "attachments": []
+        },
+        "Crossbow": {
+          "attachments": [
+            "Red Dot Sight",
+            "ACOG Scope",
+            "Infrared Scope"
+          ]
+        }
       }
     },
-    "equipment": {
+    "other": {
       "lethal": [
         "Frag",
         "Semtex",
-        "Tomahawk",
-        "Claymore",
-        "C4"
+        "Tomahawk"
       ],
       "tactical": [
         "Concussion",
         "Flash",
-        "Smoke",
+        "Willy Pete",
         "Nova Gas",
         "Decoy"
+      ],
+      "equipment": [
+        "Camera Spike",
+        "C4",
+        "Tactical Insertion",
+        "Jammer",
+        "Motion Sensor",
+        "Claymore"
       ]
     },
     "perks": {
@@ -2117,7 +2176,7 @@
         "Two Attachments"
       ]
     },
-    "equipment": {
+    "other": {
       "lethal": [
         "Frag",
         "Semtex",
@@ -2410,6 +2469,28 @@
             "Select Fire"
           ]
         },
+        "AN-94": {
+          "attachments": [
+            "Reflex Sight",
+            "Red Dot Sight",
+            "EOTech Sight",
+            "ACOG Sight",
+            "Dual Band Scope",
+            "Target Finder",
+            "Suppressor",
+            "Compensator",
+            "Flash Suppressor",
+            "Long Barrel",
+            "Muzzle Brake",
+            "Foregrip",
+            "Laser Sight",
+            "Stock",
+            "Quickdraw Handle",
+            "Extended Clip",
+            "Fast Mag",
+            "FMJ"
+          ]
+        },
         "SMR": {
           "attachments": [
             "Reflex Sight",
@@ -2429,8 +2510,7 @@
             "Quickdraw Handle",
             "Extended Clip",
             "Fast Mag",
-            "FMJ",
-            "Select Fire"
+            "FMJ"
           ]
         },
         "M4A1": {
@@ -2971,7 +3051,7 @@
         ]
       }
     },
-    "equipment": {
+    "other": {
       "lethal": [
         "Frag",
         "Semtex",
