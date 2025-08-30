@@ -1,16 +1,24 @@
-import React from "react";
+import { Select } from "@mantine/core";
 
-function ClassForm() {
+function ClassForm({ selectedGame, onGameSelect, loadoutData }) {
   return (
-    <Select
-      label="Select Game"
-      placeholder="Pick one"
-      data={[
-        { value: "World at War", label: "Game 1" },
-        { value: "game2", label: "Game 2" },
-        { value: "game3", label: "Game 3" },
-      ]}
-    />
+    <>
+      <Select
+        className="game-select"
+        label="Select Game"
+        placeholder="Pick one"
+        classNames={{
+          label: "game-select-label",
+        }}
+        data={Object.entries(loadoutData).map(([key, value]) => ({
+          value: key,
+          label: value.title,
+        }))}
+        clearable
+        value={selectedGame}
+        onChange={onGameSelect}
+      />
+    </>
   );
 }
 

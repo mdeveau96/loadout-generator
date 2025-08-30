@@ -1,0 +1,3355 @@
+{
+  "cod4_modern_warfare": {
+    "title": "Call of Duty 4: Modern Warfare",
+    "year": 2007,
+    "primary_weapons": {
+      "assault_rifles": [
+        {
+          "AK-47": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer",
+              "Grenade Launcher"
+            ]
+          },
+          "G3": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer",
+              "Grenade Launcher"
+            ]
+          },
+          "G36C": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer",
+              "Grenade Launcher"
+            ]
+          },
+          "M16A4": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer",
+              "Grenade Launcher"
+            ]
+          },
+          "M4 Carbine": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer",
+              "Grenade Launcher"
+            ]
+          },
+          "MP44": {
+            "attachments": []
+          }
+        }
+      ],
+      "submachine_guns": [
+        {
+          "AK-74u": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer"
+            ]
+          },
+          "Mini-Uzi": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer"
+            ]
+          },
+          "MP5": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer"
+            ]
+          },
+          "P90": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer"
+            ]
+          },
+          "Skorpion": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Silencer"
+            ]
+          }
+        }
+      ],
+      "light_machine_guns": [
+        {
+          "M249 SAW": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Grip"
+            ]
+          },
+          "M60E4": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Grip"
+            ]
+          },
+          "RPD": {
+            "attachments": [
+              "No Attachment",
+              "Red Dot Sight",
+              "ACOG Scope",
+              "Grip"
+            ]
+          }
+        }
+      ],
+      "sniper_rifles": [
+        {
+          "Barrett .50Cal": {
+            "attachments": ["No Attachment", "ACOG Scope"]
+          },
+          "Dragunov": {
+            "attachments": ["No Attachment", "ACOG Scope"]
+          },
+          "M21": {
+            "attachments": ["No Attachment", "ACOG Scope"]
+          },
+          "M40A3": {
+            "attachments": ["No Attachment", "ACOG Scope"]
+          },
+          "R700": {
+            "attachments": ["No Attachment", "ACOG Scope"]
+          }
+        }
+      ],
+      "shotguns": [
+        {
+          "W1200": {
+            "attachments": ["No Attachment", "Red Dot Sight", "Grip"]
+          },
+          "M1014": {
+            "attachments": ["No Attachment", "Red Dot Sight", "Grip"]
+          }
+        }
+      ]
+    },
+    "secondary_weapons": [
+      {
+        "Beretta M9": {
+          "attachments": ["No Attachment", "Silencer"]
+        },
+        "Desert Eagle": {
+          "attachments": ["No Attachment"]
+        },
+        "M1911 .45": {
+          "attachments": ["No Attachment", "Silencer"]
+        },
+        "USP .45": {
+          "attachments": ["No Attachment", "Silencer"]
+        }
+      }
+    ],
+    "other": {
+      "lethal": ["Frag Grenade"],
+      "tactical": ["Stun Grenade", "Flash Grenade", "Smoke Grenade"],
+      "special": []
+    },
+    "perks": {
+      "perk_1": [
+        "Bomb Squad",
+        "C4 x2",
+        "Claymore x2",
+        "Frag x3",
+        "RPG-7 x2",
+        "Special Grenades x3"
+      ],
+      "perk_2": [
+        "Bandolier",
+        "Double Tap",
+        "Juggernaut",
+        "Overkill",
+        "Sleight of Hand",
+        "Sonic Boom",
+        "Stopping Power",
+        "UAV Jammer"
+      ],
+      "perk_3": [
+        "Deep Impact",
+        "Extreme Conditioning",
+        "Iron Lungs",
+        "Last Stand",
+        "Steady Aim"
+      ]
+    },
+    "killstreaks": [
+      {
+        "name": "UAV",
+        "kills": 3
+      },
+      {
+        "name": "Airstrike",
+        "kills": 5
+      },
+      {
+        "name": "Attack Helicopter",
+        "kills": 7
+      }
+    ]
+  },
+  "world_at_war": {
+    "title": "Call of Duty: World at War",
+    "year": 2008,
+    "primary_weapons": [
+      {
+        "rifles": [
+          {
+            "STG-44": {
+              "attachments": [
+                "No Attachment",
+                "Flash Hider",
+                "Aperture Sight",
+                "Telescopic Sight"
+              ]
+            },
+            "M1A1 Carbine": {
+              "attachments": [
+                "No Attachment",
+                "Flash Hider",
+                "Aperture Sight",
+                "Bayonet",
+                "Box Magazine"
+              ]
+            },
+            "Gewehr 43": {
+              "attachments": [
+                "No Attachment",
+                "Suppressor",
+                "Aperture Sight",
+                "Telescopic Sight",
+                "Rifle Grenade"
+              ]
+            },
+            "SVT-40": {
+              "attachments": [
+                "No Attachment",
+                "Flash Hider",
+                "Aperture Sight",
+                "Telescopic Sight"
+              ]
+            },
+            "M1 Garand": {
+              "attachments": [
+                "No Attachment",
+                "Flash Hider",
+                "Bayonet",
+                "Rifle Grenade",
+                "Sniper Scope"
+              ]
+            }
+          }
+        ],
+        "submachine_guns": [
+          {
+            "Thompson": {
+              "attachments": [
+                "No Attachment",
+                "Aperture Sight",
+                "Suppressor",
+                "Round Drum"
+              ]
+            },
+            "MP40": {
+              "attachments": [
+                "No Attachment",
+                "Aperture Sight",
+                "Suppressor",
+                "Duel Magazine"
+              ]
+            },
+            "Type 100": {
+              "attachments": [
+                "No Attachment",
+                "Aperture Sight",
+                "Suppressor",
+                "Box Magazine"
+              ]
+            },
+            "PPSh-41": {
+              "attachments": [
+                "No Attachment",
+                "Aperture Sight",
+                "Suppressor",
+                "Round Drum"
+              ]
+            }
+          }
+        ],
+        "light_machine_guns": [
+          {
+            "BAR": {
+              "attachments": ["No Attachment", "Bipod"]
+            },
+            "DP-28": {
+              "attachments": ["No Attachment", "Bipod"]
+            },
+            "FG42": {
+              "attachments": ["No Attachment", "Telescopic Sight", "Bipod"]
+            },
+            "MG42": {
+              "attachments": ["No Attachment", "Bipod"]
+            },
+            "Type 99": {
+              "attachments": ["No Attachment", "Bayonet", "Bipod"]
+            },
+            "Browning M1919": {
+              "attachments": ["No Attachment", "Bipod"]
+            }
+          }
+        ],
+        "bolt_action_rifles": [
+          {
+            "Kar98k": {
+              "attachments": [
+                "No Attachment",
+                "Sniper Scope",
+                "Bayonet",
+                "Rifle Grenade"
+              ]
+            },
+            "Mosin-Nagant": {
+              "attachments": [
+                "No Attachment",
+                "Sniper Scope",
+                "Bayonet",
+                "Rifle Grenade"
+              ]
+            },
+            "Arisaka": {
+              "attachments": [
+                "No Attachment",
+                "Sniper Scope",
+                "Bayonet",
+                "Rifle Grenade"
+              ]
+            },
+            "Springfield": {
+              "attachments": [
+                "No Attachment",
+                "Sniper Scope",
+                "Bayonet",
+                "Rifle Grenade"
+              ]
+            },
+            "PTRS-41": {
+              "attachments": []
+            }
+          }
+        ],
+        "shotguns": [
+          {
+            "M1897 Trench Gun": {
+              "attachments": ["No Attachment", "Grip", "Bayonet"]
+            },
+            "Double Barreled": {
+              "attachments": ["No Attachment", "Grip", "Sawed-off"]
+            }
+          }
+        ]
+      }
+    ],
+    "secondary_weapons": [
+      {
+        "Colt M1911": {
+          "attachments": []
+        },
+        "Walther P38": {
+          "attachments": []
+        },
+        "Tokarev TT-33": {
+          "attachments": []
+        },
+        "Nambu Type 14": {
+          "attachments": []
+        }
+      }
+    ],
+    "other": {
+      "lethal": ["Frag", "Molotov Cocktail", "N74 ST"],
+      "tactical": ["Signal Flare", "Smoke Grenade", "Tabun Gas"]
+    },
+    "perks": {
+      "perk_1": [
+        "Primary Grenades x2",
+        "Special Grenades x3",
+        "Bomb Squad",
+        "Bouncing Betty x2",
+        "Satchel Charge x2",
+        "M9A1 Bazooka x2",
+        "Panzerschreck x2"
+      ],
+      "perk_2": [
+        "Stopping Power",
+        "Fireworks",
+        "Flak Jacket",
+        "Gas Mask",
+        "Juggernaut",
+        "Sleight of Hand",
+        "Double Tap"
+      ],
+      "perk_3": [
+        "Deep Impact",
+        "Extreme Conditioning",
+        "Steady Aim",
+        "Toss Back",
+        "Second Chance",
+        "Iron Lungs"
+      ],
+      "vehicle_perk": [
+        "Water Cooler",
+        "Greased Bearings",
+        "Ordnance Training",
+        "Leadfoot",
+        "Coaxial Machine Gun"
+      ]
+    },
+    "killstreaks": [
+      {
+        "name": "Recon Plane",
+        "kills": 3
+      },
+      {
+        "name": "Artillery Strike",
+        "kills": 5
+      },
+      {
+        "name": "Attack Dogs",
+        "kills": 7
+      }
+    ]
+  },
+  "modern_warfare_2": {
+    "title": "Call of Duty: Modern Warfare 2",
+    "year": 2009,
+    "primary_weapons": [
+      {
+        "assault_rifles": [
+          {
+            "M4A1": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "FAMAS": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "SCAR-H": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "TAR-21": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "FAL": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "M16A4": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "ACR": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "F2000": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "AK-47": {
+              "attachments": [
+                "No Attachment",
+                "Grenade Launcher",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Shotgun",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            }
+          }
+        ],
+        "submachine_guns": [
+          {
+            "MP5K": {
+              "attachments": [
+                "No Attachment",
+                "Rapid Fire",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Akimbo",
+                "Holographic Sight",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "UMP45": {
+              "attachments": [
+                "No Attachment",
+                "Rapid Fire",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Akimbo",
+                "Holographic Sight",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "Vector": {
+              "attachments": [
+                "No Attachment",
+                "Rapid Fire",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Akimbo",
+                "Holographic Sight",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "P90": {
+              "attachments": [
+                "No Attachment",
+                "Rapid Fire",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Akimbo",
+                "Holographic Sight",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "Mini-Uzi": {
+              "attachments": [
+                "No Attachment",
+                "Rapid Fire",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Akimbo",
+                "Holographic Sight",
+                "Thermal",
+                "Extended Mags"
+              ]
+            }
+          }
+        ],
+        "light_machine_guns": [
+          {
+            "L86 LSW": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "RPD": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "MG4": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "AUG HBAR": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            },
+            "M240": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Red Dot Sight",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Holographic Sight",
+                "Heartbeat Sensor",
+                "Thermal",
+                "Extended Mags"
+              ]
+            }
+          }
+        ],
+        "sniper_rifles": [
+          {
+            "Intervention": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Heartbeat Sensor",
+                "Thermal Scope",
+                "Extended Mags"
+              ]
+            },
+            "Barrett .50cal": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Heartbeat Sensor",
+                "Thermal Scope",
+                "Extended Mags"
+              ]
+            },
+            "WA2000": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Heartbeat Sensor",
+                "Thermal Scope",
+                "Extended Mags"
+              ]
+            },
+            "M21 EBR": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "ACOG Scope",
+                "FMJ",
+                "Heartbeat Sensor",
+                "Thermal Scope",
+                "Extended Mags"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "secondary_weapons": [
+      {
+        "shotguns": [
+          {
+            "SPAS-12": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "FMJ",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            },
+            "AA-12": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "FMJ",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            },
+            "Striker": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "FMJ",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            },
+            "Ranger": {
+              "attachments": ["No Attachment", "Akimbo", "FMJ"]
+            },
+            "M1014": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "FMJ",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            },
+            "Winchester 1887": {
+              "attachments": ["No Attachment", "Akimbo", "FMJ"]
+            }
+          }
+        ],
+        "handguns": [
+          {
+            ".44 Magnum": {
+              "attachments": [
+                "No Attachment",
+                "FMJ",
+                "Akimbo",
+                "Tactical Knife"
+              ]
+            },
+            "M9": {
+              "attachments": [
+                "No Attachment",
+                "FMJ",
+                "Silencer",
+                "Akimbo",
+                "Tactical Knife",
+                "Extended Mags"
+              ]
+            },
+            "USP .45": {
+              "attachments": [
+                "No Attachment",
+                "FMJ",
+                "Silencer",
+                "Akimbo",
+                "Tactical Knife",
+                "Extended Mags"
+              ]
+            },
+            "Desert Eagle": {
+              "attachments": [
+                "No Attachment",
+                "FMJ",
+                "Akimbo",
+                "Tactical Knife"
+              ]
+            }
+          }
+        ],
+        "machine_pistols": [
+          {
+            "M93 Raffica": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Silencer",
+                "Extended Mags",
+                "FMJ",
+                "Akimbo"
+              ]
+            },
+            "TMP": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Silencer",
+                "Extended Mags",
+                "FMJ",
+                "Akimbo"
+              ]
+            },
+            "G18": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Silencer",
+                "Extended Mags",
+                "FMJ",
+                "Akimbo"
+              ]
+            },
+            "PP2000": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Silencer",
+                "Extended Mags",
+                "FMJ",
+                "Akimbo"
+              ]
+            }
+          }
+        ],
+        "launchers": [
+          {
+            "AT4-HS": {
+              "attachments": []
+            },
+            "Thumper": {
+              "attachments": []
+            },
+            "Stinger": {
+              "attachments": []
+            },
+            "Javelin": {
+              "attachments": []
+            },
+            "RPG-7": {
+              "attachments": []
+            }
+          }
+        ]
+      }
+    ],
+    "other": {
+      "lethal": [
+        "Frag",
+        "Semtex",
+        "Throwing Knife",
+        "Tactical Knife",
+        "Blast Shield",
+        "Claymore",
+        "C4"
+      ],
+      "tactical": ["Flash Grenade", "Stun Grenade", "Smoke Grenade"]
+    },
+    "perks": {
+      "perk_1": [
+        "Marathon",
+        "Sleight of Hand",
+        "Scavenger",
+        "Bling",
+        "One Man Army"
+      ],
+      "perk_2": [
+        "Stopping Power",
+        "Lightweight",
+        "Hardline",
+        "Cold-Blooded",
+        "Danger Close"
+      ],
+      "perk_3": [
+        "Commando",
+        "Steady Aim",
+        "Scrambler",
+        "Ninja",
+        "SitRep",
+        "Last Stand"
+      ]
+    },
+    "killstreaks": [
+      {
+        "name": "UAV",
+        "kills": 3
+      },
+      {
+        "name": "Care Package",
+        "kills": 4
+      },
+      {
+        "name": "Counter-UAV",
+        "kills": 4
+      },
+      {
+        "name": "Sentry Gun",
+        "kills": 5
+      },
+      {
+        "name": "Predator Missile",
+        "kills": 5
+      },
+      {
+        "name": "Precision Airstrike",
+        "kills": 6
+      },
+      {
+        "name": "Harrier Strike",
+        "kills": 7
+      },
+      {
+        "name": "Attack Helicopter",
+        "kills": 7
+      },
+      {
+        "name": "Emergency Airdrop",
+        "kills": 8
+      },
+      {
+        "name": "Pave Low",
+        "kills": 9
+      },
+      {
+        "name": "Stealth Bomber",
+        "kills": 9
+      },
+      {
+        "name": "Chopper Gunner",
+        "kills": 11
+      },
+      {
+        "name": "AC-130",
+        "kills": 11
+      },
+      {
+        "name": "EMP",
+        "kills": 15
+      },
+      {
+        "name": "Tactical Nuke",
+        "kills": 25
+      }
+    ]
+  },
+  "black_ops": {
+    "title": "Call of Duty: Black Ops",
+    "year": 2010,
+    "primary_weapons": [
+      {
+        "assault_rifles": [
+          {
+            "M16": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "Enfield": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "M14": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "FAMAS": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "Galil": {
+              "attachments": [
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "AUG": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "FN FAL": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "AK74": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "Commando": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Masterkey",
+                "Flamethrower",
+                "Infrared Scope",
+                "Suppressor",
+                "Grenade Launcher"
+              ]
+            },
+            "G11": {
+              "attachments": [
+                "No Attachment",
+                "Low Power Scope",
+                "Variable Zoom"
+              ]
+            }
+          }
+        ],
+        "submachine_guns": [
+          {
+            "MP5K": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Suppressor",
+                "Rapid Fire"
+              ]
+            },
+            "Skorpion": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Grip",
+                "Dual Wield",
+                "Suppressor",
+                "Rapid Fire"
+              ]
+            },
+            "MAC11": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Dual Wield",
+                "Suppressor",
+                "Rapid Fire"
+              ]
+            },
+            "AK74u": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Suppressor",
+                "Grenade Launcher",
+                "Rapid Fire"
+              ]
+            },
+            "Uzi": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Suppressor",
+                "Rapid Fire"
+              ]
+            },
+            "PM63": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Grip",
+                "Dual Wield",
+                "Rapid Fire"
+              ]
+            },
+            "MPL": {
+              "attachments": [
+                "No Attachment",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Suppressor",
+                "Rapid Fire"
+              ]
+            },
+            "Spectre": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Suppressor",
+                "Rapid Fire"
+              ]
+            },
+            "Kiparis": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Dual Wield",
+                "Suppressor",
+                "Rapid Fire"
+              ]
+            }
+          }
+        ],
+        "light_machine_guns": [
+          {
+            "HK21": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Infrared Scope"
+              ]
+            },
+            "RPK": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "Dual Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Infrared Scope"
+              ]
+            },
+            "M60": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Reflex Sight",
+                "Grip",
+                "Infrared Scope"
+              ]
+            },
+            "Stoner63": {
+              "attachments": [
+                "No Attachment",
+                "ACOG Sight",
+                "Red Dot Sight",
+                "Extended Mag",
+                "Infrared Scope",
+                "Reflex Sight"
+              ]
+            }
+          }
+        ],
+        "sniper_rifles": [
+          {
+            "Dragunov": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Infrared Scope",
+                "Suppressor",
+                "Variable Zoom"
+              ]
+            },
+            "WA2000": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Infrared Scope",
+                "Suppressor",
+                "Variable Zoom"
+              ]
+            },
+            "L96A1": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Infrared Scope",
+                "Suppressor",
+                "Variable Zoom"
+              ]
+            },
+            "PSG1": {
+              "attachments": [
+                "No Attachment",
+                "Extended Mag",
+                "ACOG Sight",
+                "Infrared Scope",
+                "Suppressor",
+                "Variable Zoom"
+              ]
+            }
+          }
+        ],
+        "shotguns": [
+          {
+            "Olympia": {
+              "attachments": []
+            },
+            "Stakeout": {
+              "attachments": ["No Attachment", "Grip"]
+            },
+            "SPAS-12": {
+              "attachments": ["No Attachment", "Suppressor"]
+            },
+            "HS10": {
+              "attachments": ["No Attachment", "Dual Wield"]
+            }
+          }
+        ]
+      }
+    ],
+    "secondary_weapons": [
+      {
+        "pistols": [
+          {
+            "ASP": {
+              "attachments": ["No Attachment", "Dual Wield"]
+            },
+            "M1911": {
+              "attachments": [
+                "No Attachment",
+                "Upgraded Iron Sights",
+                "Extended Mag",
+                "Dual Wield",
+                "Suppressor"
+              ]
+            },
+            "Makarov": {
+              "attachments": [
+                "No Attachment",
+                "Upgraded Iron Sights",
+                "Extended Mag",
+                "Dual Wield",
+                "Suppressor"
+              ]
+            },
+            "Python": {
+              "attachments": [
+                "No Attachment",
+                "ACOG Sight",
+                "Snub Nose",
+                "Speed Loader",
+                "Dual Wield"
+              ]
+            },
+            "CZ75": {
+              "attachments": [
+                "No Attachment",
+                "Upgraded Iron Sights",
+                "Extended Mag",
+                "Dual Wield",
+                "Suppressor",
+                "Full Auto Upgrade"
+              ]
+            }
+          }
+        ],
+        "launchers": [
+          {
+            "China Lake": {
+              "attachments": []
+            },
+            "M72 LAW": {
+              "attachments": []
+            },
+            "RPG": {
+              "attachments": []
+            },
+            "Strela-3": {
+              "attachments": []
+            },
+            "Grim Reaper": {
+              "attachments": []
+            }
+          }
+        ],
+        "special": [
+          {
+            "Crossbow": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "ACOG Scope",
+                "Infrared Scope"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "other": {
+      "name": "Grenades",
+      "lethal": ["Frag", "Semtex", "Tomahawk"],
+      "tactical": ["Willy Pete", "Nova Gas", "Flash", "Concussion", "Decoy"],
+      "equipment": [
+        "Camera Spike",
+        "C4",
+        "Tactical Insertion",
+        "Jammer",
+        "Motion Sensor",
+        "Claymore"
+      ]
+    },
+    "perks": {
+      "name": "Perks",
+      "perk_1": [
+        "Lightweight",
+        "Scavenger",
+        "Ghost",
+        "Flak Jacket",
+        "Hardline"
+      ],
+      "perk_2": [
+        "Hardened",
+        "Scout",
+        "Steady Aim",
+        "Sleight of Hand",
+        "Warlord"
+      ],
+      "perk_3": [
+        "Marathon",
+        "Ninja",
+        "Second Chance",
+        "Hacker",
+        "Tactical Mask"
+      ]
+    },
+    "killstreaks": [
+      {
+        "name": "Spy Plane",
+        "kills": 3
+      },
+      {
+        "name": "RC-XD",
+        "kills": 3
+      },
+      {
+        "name": "Counter Spy Plane",
+        "kills": 4
+      },
+      {
+        "name": "SAM Turret",
+        "kills": 4
+      },
+      {
+        "name": "Care Package",
+        "kills": 5
+      },
+      {
+        "name": "Napalm Strike",
+        "kills": 5
+      },
+      {
+        "name": "Sentry Gun",
+        "kills": 6
+      },
+      {
+        "name": "Mortar Team",
+        "kills": 6
+      },
+      {
+        "name": "Attack Helicopter",
+        "kills": 7
+      },
+      {
+        "name": "Valkyrie Rockets",
+        "kills": 7
+      },
+      {
+        "name": "Blackbird",
+        "kills": 8
+      },
+      {
+        "name": "Rolling Thunder",
+        "kills": 8
+      },
+      {
+        "name": "Chopper Gunner",
+        "kills": 9
+      },
+      {
+        "name": "Attack Dogs",
+        "kills": 11
+      },
+      {
+        "name": "Gunship",
+        "kills": 11
+      }
+    ]
+  },
+  "modern_warfare_3": {
+    "title": "Call of Duty: Modern Warfare 3",
+    "year": 2011,
+    "primary_weapons": [
+      {
+        "assault_rifles": [
+          {
+            "M4A1": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "M16A4": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "SCAR-L": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "CM901": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "Type 95": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "G36C": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "ACR 6.8": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "MK14": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "AK-47": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            },
+            "FAD": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Suppressor",
+                "Grenade Launcher",
+                "ACOG Scope",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Shotgun",
+                "Hybrid Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Breath",
+                "Stability"
+              ]
+            }
+          }
+        ],
+        "submachine_guns": [
+          {
+            "MP5": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Rapid Fire",
+                "ACOG Scope",
+                "Holographic Sight",
+                "HAMR Sight",
+                "Extended Mags",
+                "Thermal Scope",
+                "Grip"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Range",
+                "Attachments",
+                "Focus",
+                "Melee",
+                "Stability"
+              ]
+            },
+            "UMP45": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Rapid Fire",
+                "ACOG Scope",
+                "Holographic Sight",
+                "HAMR Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Range",
+                "Attachments",
+                "Focus",
+                "Melee",
+                "Stability"
+              ]
+            },
+            "PP90M1": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Rapid Fire",
+                "ACOG Scope",
+                "Holographic Sight",
+                "HAMR Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Range",
+                "Attachments",
+                "Focus",
+                "Melee",
+                "Stability"
+              ]
+            },
+            "P90": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Rapid Fire",
+                "ACOG Scope",
+                "Holographic Sight",
+                "HAMR Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Range",
+                "Attachments",
+                "Focus",
+                "Melee",
+                "Stability"
+              ]
+            },
+            "PM-9": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Rapid Fire",
+                "ACOG Scope",
+                "Holographic Sight",
+                "HAMR Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Range",
+                "Attachments",
+                "Focus",
+                "Melee",
+                "Stability"
+              ]
+            },
+            "MP7": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Rapid Fire",
+                "ACOG Scope",
+                "Holographic Sight",
+                "HAMR Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Range",
+                "Attachments",
+                "Focus",
+                "Melee",
+                "Stability"
+              ]
+            }
+          }
+        ],
+        "light_machine_guns": [
+          {
+            "L86 LSW": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Extended Mags",
+                "Thermal Scope",
+                "SUSAT Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "MG36": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "PKP Pecheneg": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "MK46": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "M60E4": {
+              "attachments": [
+                "No Attachment",
+                "Red Dot Sight",
+                "Silencer",
+                "Grip",
+                "ACOG Scope",
+                "Rapid Fire",
+                "Heartbeat Sensor",
+                "Holographic Sight",
+                "Extended Mags",
+                "Thermal Scope"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            }
+          }
+        ],
+        "sniper_rifles": [
+          {
+            "Barrett .50cal": {
+              "attachments": [
+                "No Attachment",
+                "ACOG Scope",
+                "Silencer",
+                "Heartbeat Sensor",
+                "Extended Mags",
+                "Thermal Scope",
+                "Variable Zoom"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "L118A": {
+              "attachments": [
+                "No Attachment",
+                "ACOG Scope",
+                "Silencer",
+                "Heartbeat Sensor",
+                "Extended Mags",
+                "Thermal Scope",
+                "Variable Zoom"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "Dragunov": {
+              "attachments": [
+                "No Attachment",
+                "Variable Scope",
+                "Extended Mags",
+                "ACOG Scope",
+                "Thermal Scope",
+                "Heartbeat Sensor",
+                "Silencer"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "AS50": {
+              "attachments": [
+                "No Attachment",
+                "ACOG Scope",
+                "Silencer",
+                "Heartbeat Sensor",
+                "Extended Mags",
+                "Thermal Scope",
+                "Variable Zoom"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "RSASS": {
+              "attachments": [
+                "No Attachment",
+                "ACOG Scope",
+                "Silencer",
+                "Heartbeat Sensor",
+                "Extended Mags",
+                "Thermal Scope",
+                "Variable Zoom"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            },
+            "MSR": {
+              "attachments": [
+                "No Attachment",
+                "ACOG Scope",
+                "Silencer",
+                "Heartbeat Sensor",
+                "Extended Mags",
+                "Thermal Scope",
+                "Variable Zoom"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Focus",
+                "Speed",
+                "Stability"
+              ]
+            }
+          }
+        ],
+        "shotguns": [
+          {
+            "USAS 12": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Silencer",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Melee",
+                "Range",
+                "Damage"
+              ]
+            },
+            "KSG 12": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Silencer",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Melee",
+                "Range",
+                "Damage"
+              ]
+            },
+            "SPAS-12": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Silencer",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Melee",
+                "Range",
+                "Damage"
+              ]
+            },
+            "AA-12": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Silencer",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Melee",
+                "Range",
+                "Damage"
+              ]
+            },
+            "Striker": {
+              "attachments": [
+                "No Attachment",
+                "Grip",
+                "Silencer",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Melee",
+                "Range",
+                "Damage"
+              ]
+            },
+            "Model 1887": {
+              "attachments": [],
+              "proficiencies": [
+                "No Attachment",
+                "Kick",
+                "Impact",
+                "Attachments",
+                "Melee",
+                "Range",
+                "Damage"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "secondary_weapons": [
+      {
+        "machine_pistols": [
+          {
+            "FMG9": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "Akimbo",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            },
+            "MP9": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "Akimbo",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            },
+            "Skorpion": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "Akimbo",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            },
+            "G18": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "Akimbo",
+                "Red Dot Sight",
+                "Holographic Sight",
+                "Extended Mags"
+              ]
+            }
+          }
+        ],
+        "handguns": [
+          {
+            "USP .45": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "Akimbo",
+                "Tactical Knife",
+                "Extended Mags"
+              ]
+            },
+            "P99": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "Akimbo",
+                "Tactical Knife",
+                "Extended Mags"
+              ]
+            },
+            "MP412": {
+              "attachments": ["No Attachment", "Akimbo", "Tactical Knife"]
+            },
+            ".44 Magnum": {
+              "attachments": ["No Attachment", "Akimbo", "Tactical Knife"]
+            },
+            "Five Seven": {
+              "attachments": [
+                "No Attachment",
+                "Silencer",
+                "Akimbo",
+                "Tactical Knife",
+                "Extended Mags"
+              ]
+            },
+            "Desert Eagle": {
+              "attachments": ["No Attachment", "Akimbo", "Tactical Knife"]
+            }
+          }
+        ],
+        "launchers": [
+          {
+            "SMAW": {
+              "attachments": []
+            },
+            "Javelin": {
+              "attachments": []
+            },
+            "Stinger": {
+              "attachments": []
+            },
+            "XM25": {
+              "attachments": []
+            },
+            "M320 GLM": {
+              "attachments": []
+            },
+            "RPG-7": {
+              "attachments": []
+            }
+          }
+        ],
+        "special": [
+          {
+            "Riot Shield": {
+              "attachments": [],
+              "proficiencies": ["No Attachment", "Melee", "Speed"]
+            }
+          }
+        ]
+      }
+    ],
+    "other": {
+      "lethal": [
+        "Frag",
+        "Semtex",
+        "Throwing Knife",
+        "Bouncing Betty",
+        "Claymore",
+        "C4"
+      ],
+      "tactical": [
+        "Flash Grenade",
+        "Concussion Grenade",
+        "Scrambler",
+        "EMP Grenade",
+        "Smoke Grenade",
+        "Trophy System",
+        "Tactical Insertion",
+        "Portable Radar"
+      ]
+    },
+    "perks": {
+      "perk_1": [
+        "Extreme Conditioning",
+        "Sleight of Hand",
+        "Blind Eye",
+        "Recon",
+        "Scavenger"
+      ],
+      "perk_2": [
+        "Quickdraw",
+        "Blast Shield",
+        "Hardline",
+        "Assassin",
+        "Overkill"
+      ],
+      "perk_3": ["Marksman", "Stalker", "SitRep", "Steady Aim", "Dead Silence"]
+    },
+    "scorestreaks": [
+      {
+        "name": "UAV",
+        "kills": 4
+      },
+      {
+        "name": "Care Package",
+        "kills": 4
+      },
+      {
+        "name": "IMS",
+        "kills": 5
+      },
+      {
+        "name": "Predator Missile",
+        "kills": 5
+      },
+      {
+        "name": "Sentry Gun",
+        "kills": 5
+      },
+      {
+        "name": "Precision Airstrike",
+        "kills": 6
+      },
+      {
+        "name": "Attack Helicopter",
+        "kills": 7
+      },
+      {
+        "name": "Strafe Run",
+        "kills": 9
+      },
+      {
+        "name": "AH-6 Overwatch",
+        "kills": 9
+      },
+      {
+        "name": "Reaper",
+        "kills": 10
+      },
+      {
+        "name": "Assault Drone",
+        "kills": 10
+      },
+      {
+        "name": "AC-130",
+        "kills": 12
+      },
+      {
+        "name": "Pave Low",
+        "kills": 12
+      },
+      {
+        "name": "Juggernaut",
+        "kills": 15
+      },
+      {
+        "name": "Osprey Gunner",
+        "kills": 17
+      }
+    ]
+  },
+  "black_ops_2": {
+    "title": "Call of Duty: Black Ops 2",
+    "year": 2012,
+    "primary_weapons": [
+      {
+        "assault_rifles": [
+          {
+            "SCAR-H": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "M8A1": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "Type 25": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "M27": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "SWAT-556": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "FAL OSW": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "MTAR": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "AN-94": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            },
+            "SMR": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Fast Mag",
+                "ACOG Sight",
+                "Fore Grip",
+                "Adjustable Stock",
+                "Target Finder",
+                "Laser Sight",
+                "Select Fire",
+                "EOTech Sight",
+                "Suppressor",
+                "Full Metal Jacket",
+                "Hybrid Optic",
+                "Extended Clip",
+                "Grenade Launcher",
+                "Millimeter Scanner"
+              ]
+            }
+          }
+        ],
+        "submachine_guns": [
+          {
+            "MP7": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Fast Mag",
+                "EOTech Sight",
+                "Fore Grip",
+                "Quickdraw Handle",
+                "Full Metal Jacket",
+                "Long Barrel",
+                "Target Finder",
+                "Extended Clip",
+                "Select Fire",
+                "Rapid Fire",
+                "Millimeter Scanner"
+              ]
+            },
+            "PDW-57": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Fast Mag",
+                "EOTech Sight",
+                "Fore Grip",
+                "Quickdraw Handle",
+                "Full Metal Jacket",
+                "Long Barrel",
+                "Target Finder",
+                "Extended Clip",
+                "Select Fire",
+                "Rapid Fire",
+                "Millimeter Scanner"
+              ]
+            },
+            "MSMC": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Fast Mag",
+                "EOTech Sight",
+                "Fore Grip",
+                "Quickdraw Handle",
+                "Full Metal Jacket",
+                "Long Barrel",
+                "Target Finder",
+                "Extended Clip",
+                "Select Fire",
+                "Rapid Fire",
+                "Millimeter Scanner"
+              ]
+            },
+            "Chicom CQB": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Fast Mag",
+                "EOTech Sight",
+                "Fore Grip",
+                "Quickdraw Handle",
+                "Full Metal Jacket",
+                "Long Barrel",
+                "Target Finder",
+                "Extended Clip",
+                "Select Fire",
+                "Rapid Fire",
+                "Millimeter Scanner"
+              ]
+            },
+            "Vector K10": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Fast Mag",
+                "EOTech Sight",
+                "Fore Grip",
+                "Quickdraw Handle",
+                "Full Metal Jacket",
+                "Long Barrel",
+                "Target Finder",
+                "Extended Clip",
+                "Select Fire",
+                "Rapid Fire",
+                "Millimeter Scanner"
+              ]
+            },
+            "Peacekeeper": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Fast Mag",
+                "EOTech Sight",
+                "Fore Grip",
+                "Quickdraw Handle",
+                "Full Metal Jacket",
+                "Long Barrel",
+                "Target Finder",
+                "Extended Clip",
+                "Select Fire",
+                "Rapid Fire",
+                "Millimeter Scanner"
+              ]
+            },
+            "Scorpion EVO": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Fast Mag",
+                "EOTech Sight",
+                "Fore Grip",
+                "Quickdraw Handle",
+                "Full Metal Jacket",
+                "Long Barrel",
+                "Target Finder",
+                "Extended Clip",
+                "Select Fire",
+                "Rapid Fire",
+                "Millimeter Scanner"
+              ]
+            }
+          }
+        ],
+        "light_machine_guns": [
+          {
+            "Mk 48": {
+              "attachments": [
+                "No Attachment",
+                "EOTech Sight",
+                "Fore Grip",
+                "Full Metal Jacket",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Target Finder",
+                "Adjustable Stock",
+                "ACOG Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Variable Zoom",
+                "Extended Clip",
+                "Hybrid Optic",
+                "Rapid Fire",
+                "Dual Band Scope"
+              ]
+            },
+            "QBB LSW": {
+              "attachments": [
+                "No Attachment",
+                "EOTech Sight",
+                "Fore Grip",
+                "Full Metal Jacket",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Target Finder",
+                "Adjustable Stock",
+                "ACOG Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Variable Zoom",
+                "Extended Clip",
+                "Hybrid Optic",
+                "Rapid Fire",
+                "Dual Band Scope"
+              ]
+            },
+            "LSAT": {
+              "attachments": [
+                "No Attachment",
+                "EOTech Sight",
+                "Fore Grip",
+                "Full Metal Jacket",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Target Finder",
+                "Adjustable Stock",
+                "ACOG Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Variable Zoom",
+                "Extended Clip",
+                "Hybrid Optic",
+                "Rapid Fire",
+                "Dual Band Scope"
+              ]
+            },
+            "HAMR": {
+              "attachments": [
+                "No Attachment",
+                "EOTech Sight",
+                "Fore Grip",
+                "Full Metal Jacket",
+                "Reflex Sight",
+                "Quickdraw Handle",
+                "Target Finder",
+                "Adjustable Stock",
+                "ACOG Sight",
+                "Laser Sight",
+                "Suppressor",
+                "Variable Zoom",
+                "Extended Clip",
+                "Hybrid Optic",
+                "Rapid Fire",
+                "Dual Band Scope"
+              ]
+            }
+          }
+        ],
+        "sniper_rifles": [
+          {
+            "SVU-AS": {
+              "attachments": [
+                "Sniper Scope",
+                "Ballistic CPU",
+                "Variable Zoom",
+                "Fast Mag",
+                "Full Metal Jacket",
+                "ACOG Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Dual Band Scope"
+              ]
+            },
+            "DSR 50": {
+              "attachments": [
+                "Sniper Scope",
+                "Ballistic CPU",
+                "Variable Zoom",
+                "Fast Mag",
+                "Full Metal Jacket",
+                "ACOG Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Dual Band Scope"
+              ]
+            },
+            "Ballista": {
+              "attachments": [
+                "Sniper Scope",
+                "Ballistic CPU",
+                "Variable Zoom",
+                "Fast Mag",
+                "Full Metal Jacket",
+                "ACOG Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Dual Band Scope",
+                "Iron Sight"
+              ]
+            },
+            "XPR-50": {
+              "attachments": [
+                "Sniper Scope",
+                "Ballistic CPU",
+                "Variable Zoom",
+                "Fast Mag",
+                "Full Metal Jacket",
+                "ACOG Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Dual Band Scope",
+                "Iron Sight"
+              ]
+            }
+          }
+        ],
+        "shotguns": [
+          {
+            "R870 MCS": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Long Barrel",
+                "Fast Mag",
+                "Laser Sight",
+                "Adjustable Stock",
+                "Suppressor",
+                "Extended Clip",
+                "Quickdraw Handle",
+                "Millimeter Scanner"
+              ]
+            },
+            "KSG": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Long Barrel",
+                "Fast Mag",
+                "Laser Sight",
+                "Adjustable Stock",
+                "Suppressor",
+                "Extended Clip",
+                "Quickdraw Handle",
+                "Millimeter Scanner"
+              ]
+            },
+            "M1216": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Long Barrel",
+                "Fast Mag",
+                "Laser Sight",
+                "Adjustable Stock",
+                "Suppressor",
+                "Extended Clip",
+                "Quickdraw Handle",
+                "Millimeter Scanner"
+              ]
+            },
+            "S12": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Long Barrel",
+                "Fast Mag",
+                "Laser Sight",
+                "Adjustable Stock",
+                "Suppressor",
+                "Extended Clip",
+                "Quickdraw Handle",
+                "Millimeter Scanner"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "secondary_weapons": [
+      {
+        "pistols": [
+          {
+            "B23R": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Long Barrel",
+                "Full Metal Jacket",
+                "Fast Mag",
+                "Suppressor",
+                "Tactical Knife",
+                "Dual Wield"
+              ]
+            },
+            "Executioner": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Long Barrel",
+                "Full Metal Jacket",
+                "Fast Mag",
+                "Suppressor",
+                "Tactical Knife",
+                "Dual Wield"
+              ]
+            },
+            "Five-seven": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Long Barrel",
+                "Full Metal Jacket",
+                "Fast Mag",
+                "Suppressor",
+                "Tactical Knife",
+                "Dual Wield"
+              ]
+            },
+            "KAP-40": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "Extended Clip",
+                "Laser Sight",
+                "Long Barrel",
+                "Full Metal Jacket",
+                "Fast Mag",
+                "Suppressor",
+                "Tactical Knife",
+                "Dual Wield"
+              ]
+            },
+            "Tac-45": {
+              "attachments": [
+                "Reflex Sight",
+                "Red Dot Sight",
+                "EOTech Sight",
+                "Suppressor",
+                "Compensator",
+                "Flash Suppressor",
+                "Long Barrel",
+                "Laser Sight",
+                "Tactical Knife",
+                "Quickdraw Handle",
+                "Extended Clip",
+                "Fast Mag",
+                "FMJ"
+              ]
+            }
+          }
+        ],
+        "launchers": [
+          {
+            "FHJ-18 AA": {
+              "attachments": []
+            },
+            "SMAW": {
+              "attachments": []
+            },
+            "RPG": {
+              "attachments": []
+            }
+          }
+        ],
+        "specials": [
+          {
+            "Assault Shield": {
+              "attachments": []
+            },
+            "Ballistic Knife": {
+              "attachments": []
+            },
+            "Crossbow": {
+              "attachments": [
+                "No Attachment",
+                "Reflex Sight",
+                "ACOG Scope",
+                "Dual Band Scope",
+                "Variable Zoom",
+                "Tri-Bolt"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "other": {
+      "lethal": [
+        "Bouncing Betty",
+        "C4",
+        "Claymore",
+        "Combat Axe",
+        "Frag",
+        "Semtex"
+      ],
+      "tactical": [
+        "Black Hat",
+        "Concussion",
+        "EMP Grenade",
+        "Flashbang",
+        "Sensor Grenade",
+        "Shock Charge",
+        "Smoke Grenade",
+        "Tactical Insertion",
+        "Trophy System"
+      ]
+    },
+    "perks": {
+      "perk_1": [
+        "Lightweight",
+        "Hardline",
+        "Blind Eye",
+        "Flak Jacket",
+        "Ghost"
+      ],
+      "perk_2": [
+        "Toughness",
+        "Cold Blooded",
+        "Fast Hands",
+        "Hard Wired",
+        "Scavenger"
+      ],
+      "perk_3": [
+        "Dexterity",
+        "Extreme Conditioning",
+        "Engineer",
+        "Tactical Mask",
+        "Dead Silence",
+        "Awareness"
+      ]
+    },
+    "scorestreaks": [
+      {
+        "name": "UAV",
+        "score": 375
+      },
+      {
+        "name": "RC-XD",
+        "score": 325
+      },
+      {
+        "name": "Hunter Killer",
+        "score": 425
+      },
+      {
+        "name": "Care Package",
+        "score": 450
+      },
+      {
+        "name": "Counter-UAV",
+        "score": 475
+      },
+      {
+        "name": "Guardian",
+        "score": 500
+      },
+      {
+        "name": "Hellstorm Missile",
+        "score": 525
+      },
+      {
+        "name": "Lightning Strike",
+        "score": 550
+      },
+      {
+        "name": "Sentry Gun",
+        "score": 600
+      },
+      {
+        "name": "Death Machine",
+        "score": 650
+      },
+      {
+        "name": "War Machine",
+        "score": 700
+      },
+      {
+        "name": "Dragonfire",
+        "score": 725
+      },
+      {
+        "name": "AGR",
+        "score": 800
+      },
+      {
+        "name": "Stealth Chopper",
+        "score": 850
+      },
+      {
+        "name": "Orbital VSAT",
+        "score": 900
+      },
+      {
+        "name": "Escort Drone",
+        "score": 1000
+      },
+      {
+        "name": "Warthog",
+        "score": 1025
+      },
+      {
+        "name": "Lodestar",
+        "score": 1200
+      },
+      {
+        "name": "VTOL Warship",
+        "score": 1400
+      },
+      {
+        "name": "K9 Unit",
+        "score": 1275
+      },
+      {
+        "name": "Swarm",
+        "score": 1900
+      }
+    ]
+  }
+}
